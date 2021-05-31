@@ -6,7 +6,7 @@ import (
     "time"
     "context"
     "google.golang.org/grpc"
-    "my_app/api"
+    "github.com/zhangel/my_app/api"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
     "net"
     "log"
     "context"
-    "my_app/api"
+    "github.com/zhangel/my_app/api"
     "google.golang.org/grpc/reflection"
     "google.golang.org/grpc"
 )
